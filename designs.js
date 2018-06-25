@@ -11,9 +11,8 @@ makeGrid();
 function makeGrid() {
 
 // Your code goes here!
-var x, y;
-height = $("#inputHeight").val();//Gets the value in the grid-height input box
-width = $("#inputWidth").val();////Gets the value in the grid-width input box
+var height = $("#inputHeight").val();//Gets the value in the grid-height input box
+var width = $("#inputWidth").val();////Gets the value in the grid-width input box
 $("tr").remove();//removes tables if any. Happens every time the submit button is pressed.
         for(var i = 0; i < height; ++i){
             $("#pixelCanvas").append("<tr class=row"+i+"></tr>");//draws the rows. tr means table row
