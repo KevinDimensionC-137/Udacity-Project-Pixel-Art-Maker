@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Repo](https://github.com/KevinDimensionC-137/Udacity-Project-Pixel-Art-Maker "Repository Root Folder")
+* [View App](https://kevindimensionc-137.github.io/Udacity-Project-Pixel-Art-Maker/ "App")
 
 ## Instructions
 
